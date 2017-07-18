@@ -3,6 +3,7 @@
 ### Twitter Clone for Android
 
 ![app screenshots](https://github.com/teymourk/Android-Twitter-Client-SQL-/blob/master/AppScreens.png)
+![app screenshots](https://github.com/teymourk/Android-Twitter-Client-SQL-/blob/master/AppScreen2.png)
 
 ### Following Api URL
 
