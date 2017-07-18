@@ -1,6 +1,6 @@
 # Twitter Clone 
 
-###Twitter Clone for Android
+### Twitter Clone for Android
 
 ![app screenshots](https://github.com/teymourk/Android-Twitter-Client-SQL-/blob/master/AppScreens.png)
 
